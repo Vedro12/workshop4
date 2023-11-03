@@ -41,9 +41,16 @@
 ### Реализовать персептрон, умеющий производить вычисления or, and, xor и nand.
 Ход работы:
 - Создаем проект, а в нем пустой объект, к которому цепляем скрипт.
+- OR.
 ![Снимок экрана (490)](https://github.com/Vedro12/workshop4/assets/127394413/af158778-875c-4c32-a7d5-3024c83c403e)
+
+- AND.
 ![Снимок экрана (491)](https://github.com/Vedro12/workshop4/assets/127394413/f66a2665-1f86-4d63-bc8e-44a1049d17a8)
+
+- NAND.
 ![Снимок экрана (492)](https://github.com/Vedro12/workshop4/assets/127394413/a73d99fc-871d-4d85-ad5b-49b41c21d272)
+
+- XOR.
 ![Снимок экрана (493)](https://github.com/Vedro12/workshop4/assets/127394413/1183c159-3834-49eb-bd76-1fcb7fe86481)
 
 
